@@ -6,8 +6,8 @@ public enum MyComponentEnum: String {
 }
 
 public struct ButtonBecaiOS {
-    public static let TituloNormal = "Avançará"
-    public static let TituloClick = "Clicado!"
+    public static let TituloNormal = "AvançaráLucas"
+    public static let TituloClick = "Clicado!Lucas"
 }
 
 public class Compxxx: UIView {
