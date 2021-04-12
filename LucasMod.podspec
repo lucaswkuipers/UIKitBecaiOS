@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'UIKitBecaiOS'
-  s.version          = '2.3.7'
-  s.summary          = 'A short description of UIKitBecaiOS.'
+  s.name             = 'LucasMod'
+  s.version          = '1.0.0'
+  s.summary          = 'Modulo que criei para a beca ios everis'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,19 +21,19 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/henrymelo/UIKitBecaiOS'
+  s.homepage         = 'https://github.com/lucaswkuipers/UIKitBecaiOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'henrymelo' => 'henry.melo@yahoo.com' }
-  s.source           = { :git => 'https://github.com/henrymelo/UIKitBecaiOS.git', :tag => s.version.to_s }
+  s.author           = { 'Lucas Werner Kuipers' => 'lucaswkuipers@gmail.com' }
+  s.source           = { :git => 'https://github.com/lucaswkuipers/UIKitBecaiOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'UIKitBecaiOS/Classes/**/*'
+  s.source_files = 'LucasMod/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'UIKitBecaiOS' => ['UIKitBecaiOS/Assets/*.png']
+  #   'UIKitBecaiOS' => ['LucasMod/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

@@ -5,9 +5,9 @@ public enum MyComponentEnum: String {
     case Tudo
 }
 
-public struct ButtonBecaiOS {
-    public static let TituloNormal = "AvançaráLucas"
-    public static let TituloClick = "Clicado!Lucas"
+public struct MinhasConstantes {
+    public static let meuNome = "Galdinho"
+    public static let minhaIdade = 42
 }
 
 public class Compxxx: UIView {
